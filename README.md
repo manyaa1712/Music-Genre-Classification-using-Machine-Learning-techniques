@@ -34,7 +34,7 @@ Developing a machine learning model for music genre classification from audio fi
 
 ## Background
 
-As a team of data scientists working at Spotify, our mission is to enhance the user experience of our music streaming platform. One way to achieve this is to provide accurate and personalized music recommendations to our users. One crucial aspect of personalized music recommendations is accurate genre classification of music tracks. While traditional manual genre labeling can be time-consuming and often subjective, an automated model that can recognize the genre of music by analyzing its sound characteristics could be a valuable tool for our platform.
+As a data scientist working at Spotify, my mission is to enhance the user experience of our music streaming platform. One way to achieve this is to provide accurate and personalized music recommendations to our users. One crucial aspect of personalized music recommendations is accurate genre classification of music tracks. While traditional manual genre labeling can be time-consuming and often subjective, an automated model that can recognize the genre of music by analyzing its sound characteristics could be a valuable tool for my platform.
 
 Over the years, many approaches have been developed for automatic genre classification of music, including rule-based systems, feature-based models, and deep learning-based models. While rule-based systems rely on manually defined rules, feature-based models extract relevant features from the audio signal and classify the music based on these features. Deep learning-based models, on the other hand, learn hierarchical representations of the audio signal using neural networks and can achieve state-of-the-art performance in genre classification tasks.
 
@@ -255,7 +255,7 @@ While both methods have their pros and cons, the final model presented in this n
 
 ## Recommendations
 
-Based on our achievements in this model, outperforming models trained on Spotify's engineered audio features, we recommend that Spotify allocate more funding to further develop this convolutional neural network classification technology. Resources should be distributed to collect larger and more diverse data sets as well as continue to refine and improve the current model. In addition to classifying smaller or independent artists, this technology also could be leveraged for recommendation systems to generate playlists with similar artists or recommend new artists to users.
+Based on the achievements in this model, outperforming models trained on Spotify's engineered audio features, I recommend that Spotify allocate more funding to further develop this convolutional neural network classification technology. Resources should be distributed to collect larger and more diverse data sets as well as continue to refine and improve the current model. In addition to classifying smaller or independent artists, this technology also could be leveraged for recommendation systems to generate playlists with similar artists or recommend new artists to users.
 
 The following are some additional areas for potential improvement:
 - Further optimizing hyperparameters such as the learning rate, batch size, and number of epochs.
