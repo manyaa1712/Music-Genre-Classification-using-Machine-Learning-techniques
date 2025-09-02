@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="./images/CL Banner.png"/>
-</div>
-
 <h1 style="text-align:center">
     Music Genre Classification Using Convolutional Neural Networks
 </h1>
@@ -10,11 +6,6 @@
     Project Team
 </h2>
 
-<p style="text-align: center;">
-    Christopher Landschoot<br>
-    Ayako Homma<br>
-    Elio Marcaccio<br>
-    Farhad Farahani
 </p>
 
 ##### Contents: 
