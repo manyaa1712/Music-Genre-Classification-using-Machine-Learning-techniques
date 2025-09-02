@@ -1,5 +1,5 @@
 <h1 style="text-align:center">
-    Music Genre Classification Using Convolutional Neural Networks
+    Music Genre Classification Using Machine Learning techniques
 </h1>
 
 </p>
