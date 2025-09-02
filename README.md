@@ -2,10 +2,6 @@
     Music Genre Classification Using Convolutional Neural Networks
 </h1>
 
-<h2 style="text-align:center">
-    Project Team
-</h2>
-
 </p>
 
 ##### Contents: 
