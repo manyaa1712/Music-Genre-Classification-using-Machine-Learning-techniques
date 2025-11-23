@@ -42,7 +42,7 @@ In recent years, deep learning-based models have shown promising results in musi
 
 However, there is still room for improvement in the accuracy and efficiency of music genre classification models. One key challenge is the variability and diversity of music styles and sub-genres. Moreover, the robustness of these models to background noise, compression artifacts, and other forms of audio degradation is also an important consideration in real-world scenarios.
 
-Therefore, our goal as a data science team at Spotify is to develop an accurate and robust music genre classification model that can improve the music recommendation system on our platform and enhance the user experience.
+Therefore, our goal is to develop an accurate and robust music genre classification model that can improve the music recommendation system on Spotify and enhance the user experience.
 
 ---
 
